@@ -5,7 +5,7 @@ This repository contains the code for a simple website showcasing Apple products
 ## Demo
 
 You can see a live demo of the website here .
-https://tushar7x18.github.io/Assignment_Inteleccess/
+https://github.com/darkearly/Assignment_Inteleccess-main
 
 ## Features
 
